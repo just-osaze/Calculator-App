@@ -24,3 +24,11 @@ picture {
   display: block;
   width: 100%;
 }
+
+button {
+   width: 71.75px;
+   height: 72px;
+   border-radius: 24px;
+   margin: 8px;
+   font-size: 32px;
+}
